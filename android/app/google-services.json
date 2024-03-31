@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "951967419183",
+    "firebase_url": "https://smart-green-house-ef358-default-rtdb.firebaseio.com",
+    "project_id": "smart-green-house-ef358",
+    "storage_bucket": "smart-green-house-ef358.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951967419183:android:279852b6b49e27adae2fda",
+        "android_client_info": {
+          "package_name": "com.example.smartgreanhouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951967419183-tmepp90g7ke2nvlc9gntkia7fo21ijin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartgreanhouse",
+            "certificate_hash": "0562b15f06f81788a16520a7542116f5de519889"
+          }
+        },
+        {
+          "client_id": "951967419183-hel3b35v90a6tibb66r1958dq63jfp36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQxisUt2FRVEoy9b7bhqnHt1NR_vVdZuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951967419183-hel3b35v90a6tibb66r1958dq63jfp36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
